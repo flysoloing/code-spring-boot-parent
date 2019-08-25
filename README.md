@@ -17,3 +17,5 @@
   - 引入通用parent模块依赖，code-parent-1.0.pom
   
   - 引入Spring Boot依赖，当前版本：1.5.22.RELEASE
+  
+  - Maven插件，如：maven-source-plugin、jetty-maven-plugin等
