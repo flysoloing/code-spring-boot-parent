@@ -6,11 +6,11 @@
     <groupId>com.flysoloing</groupId>
     <artifactId>code-spring-boot-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
 
     <properties>
         <!-- code-parent -->
-        <code-parent.version>1.1-SNAPSHOT</code-parent.version>
+        <code-parent.version>1.1</code-parent.version>
         <!-- spring-boot -->
         <spring-boot.version>2.1.8.RELEASE</spring-boot.version>
         <!-- core plugins -->
