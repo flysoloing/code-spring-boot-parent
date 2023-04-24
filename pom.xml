@@ -12,7 +12,7 @@
         <!-- code-parent -->
         <code-parent.version>1.1</code-parent.version>
         <!-- spring-boot -->
-        <spring-boot.version>2.1.8.RELEASE</spring-boot.version>
+        <spring-boot.version>2.7.11</spring-boot.version>
         <!-- core plugins -->
         <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
         <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
